@@ -4057,6 +4057,7 @@ pnnx::ModelInfo Graph::flops_mem_count()
             }
         }
     }
+
     return m;
 }
 
